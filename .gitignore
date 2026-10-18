@@ -1,0 +1,6 @@
+.build/
+.tmp/
+.DS_Store
+*.app/
+english-verbs-standup.mp4
+make_meme_video.swift
